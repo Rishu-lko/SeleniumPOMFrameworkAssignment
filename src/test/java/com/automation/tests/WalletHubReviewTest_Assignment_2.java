@@ -33,7 +33,7 @@ public class WalletHubReviewTest_Assignment_2 extends BaseClass {
 		DriverFactory.getInstance().getDriver().get(super.testData.get("url"));
 	}
 	
-	@Test(description="WalletHub Review Test")
+	@Test(description="WalletHub Review Test - Assignment 2")
 	public void wallethubReviewTest(Method method) throws IOException, Exception {
 		pageObjectManager = new PageManagerClass(DriverFactory.getInstance().getDriver(),ExtentTestFactory.getInstance().getExtentTest());
 		pageObjectManager.getWalletHubLoginPage().enterLoginUserId(super.testData.get("emailId"));
