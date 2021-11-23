@@ -1,0 +1,7 @@
+21/11/2021 07:32:01 PM DEBUG automation InitializeLogger testLogin_ApplicationLog_21.November.2021_07_32_01 PM.log
+21/11/2021 07:32:01 PM DEBUG automation Logger Initiated
+21/11/2021 07:32:02 PM DEBUG automation Click Operation performed Successfully on Element:---> landingPageMyAccount
+21/11/2021 07:32:03 PM DEBUG automation Click Operation performed Successfully on Element:---> landingPageMyAccount
+21/11/2021 07:32:08 PM DEBUG automation Click Operation performed Successfully on Element:---> loginButton
+21/11/2021 07:32:11 PM DEBUG automation Click Operation performed Successfully on Element:---> homePageSignOutLink
+21/11/2021 07:32:19 PM DEBUG automation Click Operation performed Successfully on Element:---> registerButton

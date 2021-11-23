@@ -1,0 +1,707 @@
+21/11/2021 09:34:39 PM DEBUG Automation InitializeLogger testRegistration_ApplicationLog_21.November.2021_09_34_39 PM.log
+21/11/2021 09:34:39 PM DEBUG Automation Logger Initiated
+21/11/2021 09:34:39 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+21/11/2021 09:34:39 PM DEBUG Automation InitializeLogger testLogin_ApplicationLog_21.November.2021_09_34_39 PM.log
+21/11/2021 09:34:39 PM DEBUG Automation Logger Initiated
+21/11/2021 09:34:39 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+21/11/2021 09:34:39 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+21/11/2021 09:34:39 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+21/11/2021 09:34:40 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+21/11/2021 09:34:40 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+21/11/2021 09:34:42 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+21/11/2021 09:34:42 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginEmail
+21/11/2021 09:34:42 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+21/11/2021 09:34:42 PM INFO  Automation Performing ----> SETTEXT on Element ---> registrationEmailId
+21/11/2021 09:34:43 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginEmail
+21/11/2021 09:34:43 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginPassword
+21/11/2021 09:34:43 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> registrationEmailId
+21/11/2021 09:34:43 PM INFO  Automation Performing ----> SETTEXTBYACTION on Element ---> registrationPassword
+21/11/2021 09:34:43 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginPassword
+21/11/2021 09:34:43 PM INFO  Automation Performing ----> CLICK on Element ---> loginButton
+21/11/2021 09:34:46 PM DEBUG Automation CLICK operation performed Successfully on Element:---> loginButton
+21/11/2021 09:34:46 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+21/11/2021 09:34:47 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> homePageHelloText
+21/11/2021 09:34:47 PM INFO  Automation Performing ----> CLICK on Element ---> homePageSignOutLink
+21/11/2021 09:34:50 PM DEBUG Automation CLICK operation performed Successfully on Element:---> homePageSignOutLink
+21/11/2021 09:34:50 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> loginBoldText
+21/11/2021 09:34:51 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> loginBoldText
+21/11/2021 09:34:54 PM DEBUG Automation SETTEXTBYACTION operation performed Successfully on Element:---> registrationPassword
+21/11/2021 09:34:54 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> registrationPageStrongText
+21/11/2021 09:34:55 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> registrationPageStrongText
+21/11/2021 09:34:55 PM INFO  Automation Performing ----> CLICK on Element ---> registerButton
+21/11/2021 09:34:57 PM DEBUG Automation CLICK operation performed Successfully on Element:---> registerButton
+21/11/2021 09:34:57 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+21/11/2021 09:35:58 PM ERROR Automation Failed to perform VERIFYELEMENTPRESENT Operation on Element:---> homePageHelloText
+21/11/2021 09:35:58 PM INFO  Automation Performing ----> CLICK on Element ---> homePageSignOutLink
+21/11/2021 09:36:58 PM ERROR Automation Failed to perform CLICK Operation on Element:---> homePageSignOutLink
+21/11/2021 09:36:58 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> loginBoldText
+21/11/2021 09:36:59 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> loginBoldText
+21/11/2021 09:45:09 PM DEBUG Automation InitializeLogger testRegistration_ApplicationLog_21.November.2021_09_45_09 PM.log
+21/11/2021 09:45:09 PM DEBUG Automation Logger Initiated
+21/11/2021 09:45:09 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+21/11/2021 09:45:09 PM DEBUG Automation InitializeLogger testLogin_ApplicationLog_21.November.2021_09_45_09 PM.log
+21/11/2021 09:45:09 PM DEBUG Automation Logger Initiated
+21/11/2021 09:45:09 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+21/11/2021 09:45:10 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+21/11/2021 09:45:10 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+21/11/2021 09:45:10 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+21/11/2021 09:45:10 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+21/11/2021 09:45:12 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+21/11/2021 09:45:12 PM INFO  Automation Performing ----> SETTEXT on Element ---> registrationEmailId
+21/11/2021 09:45:13 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> registrationEmailId
+21/11/2021 09:45:13 PM INFO  Automation Performing ----> SETTEXTBYACTION on Element ---> registrationPassword
+21/11/2021 09:45:13 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+21/11/2021 09:45:13 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginEmail
+21/11/2021 09:45:14 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginEmail
+21/11/2021 09:45:14 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginPassword
+21/11/2021 09:45:14 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginPassword
+21/11/2021 09:45:14 PM INFO  Automation Performing ----> CLICK on Element ---> loginButton
+21/11/2021 09:45:17 PM DEBUG Automation CLICK operation performed Successfully on Element:---> loginButton
+21/11/2021 09:45:17 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+21/11/2021 09:45:18 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> homePageHelloText
+21/11/2021 09:45:18 PM INFO  Automation Performing ----> CLICK on Element ---> homePageSignOutLink
+21/11/2021 09:45:21 PM DEBUG Automation CLICK operation performed Successfully on Element:---> homePageSignOutLink
+21/11/2021 09:45:21 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> loginBoldText
+21/11/2021 09:45:22 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> loginBoldText
+21/11/2021 09:45:31 PM DEBUG Automation SETTEXTBYACTION operation performed Successfully on Element:---> registrationPassword
+21/11/2021 09:45:31 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> registrationPageStrongText
+21/11/2021 09:45:31 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> registrationPageStrongText
+21/11/2021 09:45:31 PM INFO  Automation Performing ----> CLICK on Element ---> registerButton
+21/11/2021 09:45:33 PM DEBUG Automation CLICK operation performed Successfully on Element:---> registerButton
+21/11/2021 09:45:33 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+21/11/2021 09:46:34 PM ERROR Automation Failed to perform VERIFYELEMENTPRESENT Operation on Element:---> homePageHelloText
+22/11/2021 09:03:58 AM DEBUG Automation InitializeLogger com.automation.tests.LoginTest_ApplicationLog_22.November.2021_09_03_58 AM.log
+22/11/2021 09:03:58 AM DEBUG Automation Logger Initiated
+22/11/2021 09:03:58 AM DEBUG Automation Testcase starting ---> com.automation.tests.LoginTest
+22/11/2021 10:13:41 AM DEBUG Automation InitializeLogger .LoginTest_ApplicationLog_22.November.2021_10_13_41 AM.log
+22/11/2021 10:13:41 AM DEBUG Automation Logger Initiated
+22/11/2021 10:13:41 AM DEBUG Automation Testcase starting ---> .LoginTest
+22/11/2021 10:15:25 AM DEBUG Automation InitializeLogger LoginTest_ApplicationLog_22.November.2021_10_15_25 AM.log
+22/11/2021 10:15:25 AM DEBUG Automation Logger Initiated
+22/11/2021 10:15:25 AM DEBUG Automation Testcase starting ---> LoginTest
+22/11/2021 10:15:26 AM DEBUG Automation InitializeLogger RegistrationTest_ApplicationLog_22.November.2021_10_15_26 AM.log
+22/11/2021 10:15:26 AM DEBUG Automation Logger Initiated
+22/11/2021 10:15:26 AM DEBUG Automation Testcase starting ---> RegistrationTest
+22/11/2021 10:16:10 AM DEBUG Automation InitializeLogger LoginTest_ApplicationLog_22.November.2021_10_16_09 AM.log
+22/11/2021 10:16:10 AM DEBUG Automation Logger Initiated
+22/11/2021 10:16:10 AM DEBUG Automation Testcase starting ---> LoginTest
+22/11/2021 10:17:24 AM DEBUG Automation InitializeLogger LoginTest_ApplicationLog_22.November.2021_10_17_18 AM.log
+22/11/2021 10:17:24 AM DEBUG Automation Logger Initiated
+22/11/2021 10:17:26 AM DEBUG Automation Testcase starting ---> LoginTest
+22/11/2021 10:22:45 AM DEBUG Automation InitializeLogger LoginTest_ApplicationLog_22.November.2021_10_22_44 AM.log
+22/11/2021 10:22:45 AM DEBUG Automation Logger Initiated
+22/11/2021 10:22:45 AM DEBUG Automation Testcase starting ---> LoginTest
+22/11/2021 10:22:45 AM DEBUG Automation InitializeLogger RegistrationTest_ApplicationLog_22.November.2021_10_22_45 AM.log
+22/11/2021 10:22:45 AM DEBUG Automation Logger Initiated
+22/11/2021 10:22:45 AM DEBUG Automation Testcase starting ---> RegistrationTest
+22/11/2021 10:24:05 AM DEBUG Automation InitializeLogger LoginTest_ApplicationLog_22.November.2021_10_24_05 AM.log
+22/11/2021 10:24:05 AM DEBUG Automation Logger Initiated
+22/11/2021 10:24:05 AM DEBUG Automation Testcase starting ---> LoginTest
+22/11/2021 10:24:18 AM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 10:24:18 AM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 10:24:18 AM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 10:24:21 AM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 10:24:21 AM INFO  Automation Performing ----> SETTEXT on Element ---> loginEmail
+22/11/2021 10:24:22 AM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginEmail
+22/11/2021 10:24:22 AM INFO  Automation Performing ----> SETTEXT on Element ---> loginPassword
+22/11/2021 10:24:23 AM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginPassword
+22/11/2021 10:24:23 AM INFO  Automation Performing ----> CLICK on Element ---> loginButton
+22/11/2021 10:24:26 AM DEBUG Automation CLICK operation performed Successfully on Element:---> loginButton
+22/11/2021 10:24:26 AM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 10:24:27 AM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> homePageHelloText
+22/11/2021 10:24:27 AM INFO  Automation Performing ----> CLICK on Element ---> homePageSignOutLink
+22/11/2021 10:24:30 AM DEBUG Automation CLICK operation performed Successfully on Element:---> homePageSignOutLink
+22/11/2021 10:24:30 AM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> loginBoldText
+22/11/2021 10:24:31 AM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> loginBoldText
+22/11/2021 10:24:41 AM DEBUG Automation InitializeLogger RegistrationTest_ApplicationLog_22.November.2021_10_24_41 AM.log
+22/11/2021 10:24:41 AM DEBUG Automation Logger Initiated
+22/11/2021 10:24:41 AM DEBUG Automation Testcase starting ---> RegistrationTest
+22/11/2021 10:24:51 AM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 10:24:51 AM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 10:24:51 AM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 10:24:55 AM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 10:24:55 AM INFO  Automation Performing ----> SETTEXT on Element ---> registrationEmailId
+22/11/2021 10:24:56 AM DEBUG Automation SETTEXT operation performed Successfully on Element:---> registrationEmailId
+22/11/2021 10:24:56 AM INFO  Automation Performing ----> SETTEXTBYACTION on Element ---> registrationPassword
+22/11/2021 10:25:07 AM DEBUG Automation SETTEXTBYACTION operation performed Successfully on Element:---> registrationPassword
+22/11/2021 10:25:07 AM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> registrationPageStrongText
+22/11/2021 10:25:08 AM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> registrationPageStrongText
+22/11/2021 10:25:08 AM INFO  Automation Performing ----> CLICK on Element ---> registerButton
+22/11/2021 10:25:12 AM DEBUG Automation CLICK operation performed Successfully on Element:---> registerButton
+22/11/2021 10:25:12 AM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 10:25:13 AM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> homePageHelloText
+22/11/2021 10:25:13 AM INFO  Automation Performing ----> CLICK on Element ---> homePageSignOutLink
+22/11/2021 10:25:17 AM DEBUG Automation CLICK operation performed Successfully on Element:---> homePageSignOutLink
+22/11/2021 10:25:17 AM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> loginBoldText
+22/11/2021 10:25:17 AM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> loginBoldText
+22/11/2021 10:25:31 AM DEBUG Automation InitializeLogger LoginTest_ApplicationLog_22.November.2021_10_25_30 AM.log
+22/11/2021 10:25:31 AM DEBUG Automation Logger Initiated
+22/11/2021 10:25:31 AM DEBUG Automation Testcase starting ---> LoginTest
+22/11/2021 10:25:31 AM DEBUG Automation InitializeLogger RegistrationTest_ApplicationLog_22.November.2021_10_25_31 AM.log
+22/11/2021 10:25:31 AM DEBUG Automation Logger Initiated
+22/11/2021 10:25:31 AM DEBUG Automation Testcase starting ---> RegistrationTest
+22/11/2021 10:26:30 AM DEBUG Automation InitializeLogger LoginTest_ApplicationLog_22.November.2021_10_26_30 AM.log
+22/11/2021 10:26:30 AM DEBUG Automation Logger Initiated
+22/11/2021 10:26:30 AM DEBUG Automation Testcase starting ---> LoginTest
+22/11/2021 10:26:31 AM DEBUG Automation InitializeLogger RegistrationTest_ApplicationLog_22.November.2021_10_26_31 AM.log
+22/11/2021 10:26:31 AM DEBUG Automation Logger Initiated
+22/11/2021 10:26:31 AM DEBUG Automation Testcase starting ---> RegistrationTest
+22/11/2021 10:26:58 AM DEBUG Automation InitializeLogger LoginTest_ApplicationLog_22.November.2021_10_26_58 AM.log
+22/11/2021 10:26:58 AM DEBUG Automation Logger Initiated
+22/11/2021 10:26:58 AM DEBUG Automation Testcase starting ---> LoginTest
+22/11/2021 10:26:59 AM DEBUG Automation InitializeLogger RegistrationTest_ApplicationLog_22.November.2021_10_26_59 AM.log
+22/11/2021 10:26:59 AM DEBUG Automation Logger Initiated
+22/11/2021 10:26:59 AM DEBUG Automation Testcase starting ---> RegistrationTest
+22/11/2021 10:28:10 AM DEBUG Automation InitializeLogger LoginTest_ApplicationLog_22.November.2021_10_28_10 AM.log
+22/11/2021 10:28:10 AM DEBUG Automation Logger Initiated
+22/11/2021 10:28:10 AM DEBUG Automation Testcase starting ---> LoginTest
+22/11/2021 10:28:11 AM DEBUG Automation InitializeLogger RegistrationTest_ApplicationLog_22.November.2021_10_28_11 AM.log
+22/11/2021 10:28:11 AM DEBUG Automation Logger Initiated
+22/11/2021 10:28:11 AM DEBUG Automation Testcase starting ---> RegistrationTest
+22/11/2021 10:30:06 AM DEBUG Automation InitializeLogger LoginTest_ApplicationLog_22.November.2021_10_30_06 AM.log
+22/11/2021 10:30:06 AM DEBUG Automation Logger Initiated
+22/11/2021 10:30:06 AM DEBUG Automation Testcase starting ---> LoginTest
+22/11/2021 10:30:06 AM DEBUG Automation InitializeLogger RegistrationTest_ApplicationLog_22.November.2021_10_30_06 AM.log
+22/11/2021 10:30:06 AM DEBUG Automation Logger Initiated
+22/11/2021 10:30:06 AM DEBUG Automation Testcase starting ---> RegistrationTest
+22/11/2021 10:34:18 AM DEBUG Automation InitializeLogger LoginTest_ApplicationLog_22.November.2021_10_34_18 AM.log
+22/11/2021 10:34:18 AM DEBUG Automation Logger Initiated
+22/11/2021 10:34:18 AM DEBUG Automation Testcase starting ---> LoginTest
+22/11/2021 10:34:19 AM DEBUG Automation InitializeLogger RegistrationTest_ApplicationLog_22.November.2021_10_34_19 AM.log
+22/11/2021 10:34:19 AM DEBUG Automation Logger Initiated
+22/11/2021 10:34:19 AM DEBUG Automation Testcase starting ---> RegistrationTest
+22/11/2021 10:41:39 AM DEBUG Automation InitializeLogger LoginTest_ApplicationLog_22.November.2021_10_41_39 AM.log
+22/11/2021 10:41:39 AM DEBUG Automation Logger Initiated
+22/11/2021 10:41:39 AM DEBUG Automation Testcase starting ---> LoginTest
+22/11/2021 10:41:40 AM DEBUG Automation InitializeLogger RegistrationTest_ApplicationLog_22.November.2021_10_41_40 AM.log
+22/11/2021 10:41:40 AM DEBUG Automation Logger Initiated
+22/11/2021 10:41:40 AM DEBUG Automation Testcase starting ---> RegistrationTest
+22/11/2021 10:45:18 AM DEBUG Automation InitializeLogger LoginTest_ApplicationLog_22.November.2021_10_45_18 AM.log
+22/11/2021 10:45:18 AM DEBUG Automation Logger Initiated
+22/11/2021 10:45:18 AM DEBUG Automation Testcase starting ---> LoginTest
+22/11/2021 10:45:19 AM DEBUG Automation InitializeLogger RegistrationTest_ApplicationLog_22.November.2021_10_45_19 AM.log
+22/11/2021 10:45:19 AM DEBUG Automation Logger Initiated
+22/11/2021 10:45:19 AM DEBUG Automation Testcase starting ---> RegistrationTest
+22/11/2021 10:47:15 AM DEBUG Automation InitializeLogger LoginTest_ApplicationLog_22.November.2021_10_47_15 AM.log
+22/11/2021 10:47:15 AM DEBUG Automation Logger Initiated
+22/11/2021 10:47:15 AM DEBUG Automation Testcase starting ---> LoginTest
+22/11/2021 10:47:27 AM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 10:47:28 AM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 10:47:28 AM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 10:47:30 AM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 10:47:30 AM INFO  Automation Performing ----> SETTEXT on Element ---> loginEmail
+22/11/2021 10:47:31 AM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginEmail
+22/11/2021 10:47:31 AM INFO  Automation Performing ----> SETTEXT on Element ---> loginPassword
+22/11/2021 10:47:32 AM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginPassword
+22/11/2021 10:47:32 AM INFO  Automation Performing ----> CLICK on Element ---> loginButton
+22/11/2021 10:47:35 AM DEBUG Automation CLICK operation performed Successfully on Element:---> loginButton
+22/11/2021 10:47:35 AM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 10:47:35 AM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> homePageHelloText
+22/11/2021 10:47:35 AM INFO  Automation Performing ----> CLICK on Element ---> homePageSignOutLink
+22/11/2021 10:51:02 AM DEBUG Automation InitializeLogger LoginTest_ApplicationLog_22.November.2021_10_51_02 AM.log
+22/11/2021 10:51:02 AM DEBUG Automation Logger Initiated
+22/11/2021 10:51:02 AM DEBUG Automation Testcase starting ---> LoginTest
+22/11/2021 10:51:02 AM DEBUG Automation InitializeLogger RegistrationTest_ApplicationLog_22.November.2021_10_51_02 AM.log
+22/11/2021 10:51:02 AM DEBUG Automation Logger Initiated
+22/11/2021 10:51:02 AM DEBUG Automation Testcase starting ---> RegistrationTest
+22/11/2021 10:59:42 AM DEBUG Automation InitializeLogger LoginTest_ApplicationLog_22.November.2021_10_59_42 AM.log
+22/11/2021 10:59:42 AM DEBUG Automation Logger Initiated
+22/11/2021 10:59:42 AM DEBUG Automation Testcase starting ---> LoginTest
+22/11/2021 11:01:08 AM DEBUG Automation InitializeLogger LoginTest_ApplicationLog_22.November.2021_11_01_08 AM.log
+22/11/2021 11:01:08 AM DEBUG Automation Logger Initiated
+22/11/2021 11:01:08 AM DEBUG Automation Testcase starting ---> LoginTest
+22/11/2021 11:01:09 AM DEBUG Automation InitializeLogger RegistrationTest_ApplicationLog_22.November.2021_11_01_09 AM.log
+22/11/2021 11:01:09 AM DEBUG Automation Logger Initiated
+22/11/2021 11:01:09 AM DEBUG Automation Testcase starting ---> RegistrationTest
+22/11/2021 11:02:36 AM DEBUG Automation InitializeLogger LoginTest_ApplicationLog_22.November.2021_11_02_36 AM.log
+22/11/2021 11:02:36 AM DEBUG Automation Logger Initiated
+22/11/2021 11:02:36 AM DEBUG Automation Testcase starting ---> LoginTest
+22/11/2021 11:02:36 AM DEBUG Automation InitializeLogger RegistrationTest_ApplicationLog_22.November.2021_11_02_36 AM.log
+22/11/2021 11:02:36 AM DEBUG Automation Logger Initiated
+22/11/2021 11:02:36 AM DEBUG Automation Testcase starting ---> RegistrationTest
+22/11/2021 11:04:15 AM DEBUG Automation InitializeLogger LoginTest_ApplicationLog_22.November.2021_11_04_15 AM.log
+22/11/2021 11:04:15 AM DEBUG Automation Logger Initiated
+22/11/2021 11:04:15 AM DEBUG Automation Testcase starting ---> LoginTest
+22/11/2021 11:04:15 AM DEBUG Automation InitializeLogger RegistrationTest_ApplicationLog_22.November.2021_11_04_15 AM.log
+22/11/2021 11:04:15 AM DEBUG Automation Logger Initiated
+22/11/2021 11:04:15 AM DEBUG Automation Testcase starting ---> RegistrationTest
+22/11/2021 11:27:31 AM DEBUG Automation InitializeLogger LoginTest_ApplicationLog_22.November.2021_11_27_31 AM.log
+22/11/2021 11:27:31 AM DEBUG Automation Logger Initiated
+22/11/2021 11:27:31 AM DEBUG Automation Testcase starting ---> LoginTest
+22/11/2021 11:30:13 AM DEBUG Automation InitializeLogger RegistrationTest_ApplicationLog_22.November.2021_11_30_12 AM.log
+22/11/2021 11:30:13 AM DEBUG Automation Logger Initiated
+22/11/2021 11:30:15 AM DEBUG Automation Testcase starting ---> RegistrationTest
+22/11/2021 11:30:38 AM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 11:30:39 AM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 11:30:40 AM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 11:30:44 AM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 11:30:45 AM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 11:30:45 AM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 11:30:45 AM INFO  Automation Performing ----> SETTEXT on Element ---> loginEmail
+22/11/2021 11:30:46 AM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginEmail
+22/11/2021 11:30:46 AM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 11:30:47 AM INFO  Automation Performing ----> SETTEXT on Element ---> loginPassword
+22/11/2021 11:30:48 AM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginPassword
+22/11/2021 11:30:48 AM INFO  Automation Performing ----> CLICK on Element ---> loginButton
+22/11/2021 11:30:50 AM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 11:30:52 AM INFO  Automation Performing ----> SETTEXT on Element ---> registrationEmailId
+22/11/2021 11:30:52 AM DEBUG Automation CLICK operation performed Successfully on Element:---> loginButton
+22/11/2021 11:30:52 AM DEBUG Automation SETTEXT operation performed Successfully on Element:---> registrationEmailId
+22/11/2021 11:30:55 AM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 11:30:55 AM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> homePageHelloText
+22/11/2021 11:30:55 AM INFO  Automation Performing ----> CLICK on Element ---> homePageSignOutLink
+22/11/2021 11:30:59 AM DEBUG Automation CLICK operation performed Successfully on Element:---> homePageSignOutLink
+22/11/2021 11:30:59 AM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> loginBoldText
+22/11/2021 11:31:00 AM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> loginBoldText
+22/11/2021 11:32:36 AM DEBUG Automation InitializeLogger RegistrationTest_ApplicationLog_22.November.2021_11_32_36 AM.log
+22/11/2021 11:32:36 AM DEBUG Automation Logger Initiated
+22/11/2021 11:32:36 AM DEBUG Automation Testcase starting ---> RegistrationTest
+22/11/2021 11:32:36 AM DEBUG Automation InitializeLogger LoginTest_ApplicationLog_22.November.2021_11_32_36 AM.log
+22/11/2021 11:32:36 AM DEBUG Automation Logger Initiated
+22/11/2021 11:32:36 AM DEBUG Automation Testcase starting ---> LoginTest
+22/11/2021 11:32:46 AM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 11:32:47 AM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 11:32:47 AM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 11:32:51 AM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 11:32:51 AM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 11:32:51 AM INFO  Automation Performing ----> SETTEXT on Element ---> loginEmail
+22/11/2021 11:32:52 AM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 11:32:52 AM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 11:32:52 AM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginEmail
+22/11/2021 11:32:52 AM INFO  Automation Performing ----> SETTEXT on Element ---> loginPassword
+22/11/2021 11:32:52 AM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginPassword
+22/11/2021 11:32:52 AM INFO  Automation Performing ----> CLICK on Element ---> loginButton
+22/11/2021 11:32:56 AM DEBUG Automation CLICK operation performed Successfully on Element:---> loginButton
+22/11/2021 11:32:56 AM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 11:32:56 AM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> homePageHelloText
+22/11/2021 11:32:56 AM INFO  Automation Performing ----> CLICK on Element ---> homePageSignOutLink
+22/11/2021 11:32:59 AM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 11:32:59 AM INFO  Automation Performing ----> SETTEXT on Element ---> registrationEmailId
+22/11/2021 11:33:00 AM DEBUG Automation SETTEXT operation performed Successfully on Element:---> registrationEmailId
+22/11/2021 11:33:00 AM INFO  Automation Performing ----> SETTEXTBYACTION on Element ---> registrationPassword
+22/11/2021 11:33:00 AM DEBUG Automation CLICK operation performed Successfully on Element:---> homePageSignOutLink
+22/11/2021 11:33:00 AM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> loginBoldText
+22/11/2021 11:33:01 AM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> loginBoldText
+22/11/2021 11:33:11 AM DEBUG Automation SETTEXTBYACTION operation performed Successfully on Element:---> registrationPassword
+22/11/2021 11:33:11 AM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> registrationPageStrongText
+22/11/2021 11:34:11 AM ERROR Automation Failed to perform VERIFYELEMENTPRESENT Operation on Element:---> registrationPageStrongText
+22/11/2021 11:45:56 AM DEBUG Automation InitializeLogger RegistrationTest_ApplicationLog_22.November.2021_11_45_56 AM.log
+22/11/2021 11:45:56 AM DEBUG Automation Logger Initiated
+22/11/2021 11:45:56 AM DEBUG Automation Testcase starting ---> RegistrationTest
+22/11/2021 11:46:09 AM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 11:46:09 AM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 11:46:09 AM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 11:46:13 AM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 11:46:13 AM INFO  Automation Performing ----> SETTEXT on Element ---> registrationEmailId
+22/11/2021 11:46:14 AM DEBUG Automation SETTEXT operation performed Successfully on Element:---> registrationEmailId
+22/11/2021 11:46:14 AM INFO  Automation Performing ----> SETTEXTBYACTION on Element ---> registrationPassword
+22/11/2021 11:46:25 AM DEBUG Automation SETTEXTBYACTION operation performed Successfully on Element:---> registrationPassword
+22/11/2021 11:46:25 AM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> registrationPageStrongText
+22/11/2021 11:46:26 AM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> registrationPageStrongText
+22/11/2021 11:46:26 AM INFO  Automation Performing ----> CLICK on Element ---> registerButton
+22/11/2021 11:46:28 AM DEBUG Automation CLICK operation performed Successfully on Element:---> registerButton
+22/11/2021 11:46:28 AM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 11:48:25 AM DEBUG Automation InitializeLogger RegistrationTest_ApplicationLog_22.November.2021_11_48_25 AM.log
+22/11/2021 11:48:25 AM DEBUG Automation Logger Initiated
+22/11/2021 11:48:25 AM DEBUG Automation Testcase starting ---> RegistrationTest
+22/11/2021 11:51:33 AM DEBUG Automation InitializeLogger RegistrationTest_ApplicationLog_22.November.2021_11_51_33 AM.log
+22/11/2021 11:51:33 AM DEBUG Automation Logger Initiated
+22/11/2021 11:51:33 AM DEBUG Automation Testcase starting ---> RegistrationTest
+22/11/2021 11:51:47 AM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 11:51:48 AM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 11:51:48 AM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 11:59:55 AM DEBUG Automation InitializeLogger registrationTest_ApplicationLog_22.November.2021_11_59_55 AM.log
+22/11/2021 11:59:55 AM DEBUG Automation Logger Initiated
+22/11/2021 11:59:55 AM DEBUG Automation Testcase starting ---> registrationTest
+22/11/2021 11:59:55 AM DEBUG Automation InitializeLogger loginTest_ApplicationLog_22.November.2021_11_59_55 AM.log
+22/11/2021 11:59:55 AM DEBUG Automation Logger Initiated
+22/11/2021 11:59:55 AM DEBUG Automation Testcase starting ---> loginTest
+22/11/2021 12:01:23 PM DEBUG Automation InitializeLogger loginTest_ApplicationLog_22.November.2021_12_01_23 PM.log
+22/11/2021 12:01:23 PM DEBUG Automation Logger Initiated
+22/11/2021 12:01:23 PM DEBUG Automation Testcase starting ---> loginTest
+22/11/2021 12:01:23 PM DEBUG Automation InitializeLogger registrationTest_ApplicationLog_22.November.2021_12_01_23 PM.log
+22/11/2021 12:01:23 PM DEBUG Automation Logger Initiated
+22/11/2021 12:01:23 PM DEBUG Automation Testcase starting ---> registrationTest
+22/11/2021 12:01:36 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 12:01:37 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 12:01:37 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 12:01:37 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 12:01:37 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 12:01:37 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 12:01:41 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 12:01:41 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginEmail
+22/11/2021 12:01:41 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 12:01:41 PM INFO  Automation Performing ----> SETTEXT on Element ---> registrationEmailId
+22/11/2021 12:01:42 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginEmail
+22/11/2021 12:01:42 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginPassword
+22/11/2021 12:01:42 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> registrationEmailId
+22/11/2021 12:01:42 PM INFO  Automation Performing ----> SETTEXTBYACTION on Element ---> registrationPassword
+22/11/2021 12:01:42 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginPassword
+22/11/2021 12:01:42 PM INFO  Automation Performing ----> CLICK on Element ---> loginButton
+22/11/2021 12:01:46 PM DEBUG Automation CLICK operation performed Successfully on Element:---> loginButton
+22/11/2021 12:01:46 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 12:01:47 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> homePageHelloText
+22/11/2021 12:01:47 PM INFO  Automation Performing ----> CLICK on Element ---> homePageSignOutLink
+22/11/2021 12:01:53 PM DEBUG Automation SETTEXTBYACTION operation performed Successfully on Element:---> registrationPassword
+22/11/2021 12:01:53 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> registrationPageStrongText
+22/11/2021 12:01:54 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> registrationPageStrongText
+22/11/2021 12:01:54 PM INFO  Automation Performing ----> CLICK on Element ---> registerButton
+22/11/2021 12:01:56 PM DEBUG Automation CLICK operation performed Successfully on Element:---> homePageSignOutLink
+22/11/2021 12:01:56 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> loginBoldText
+22/11/2021 12:01:58 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> loginBoldText
+22/11/2021 12:01:59 PM DEBUG Automation CLICK operation performed Successfully on Element:---> registerButton
+22/11/2021 12:01:59 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 12:02:59 PM ERROR Automation Failed to perform VERIFYELEMENTPRESENT Operation on Element:---> homePageHelloText
+22/11/2021 12:25:44 PM DEBUG Automation InitializeLogger loginTest_ApplicationLog_22.November.2021_12_25_44 PM.log
+22/11/2021 12:25:44 PM DEBUG Automation Logger Initiated
+22/11/2021 12:25:44 PM DEBUG Automation Testcase starting ---> loginTest
+22/11/2021 12:25:44 PM DEBUG Automation InitializeLogger registrationTest_ApplicationLog_22.November.2021_12_25_44 PM.log
+22/11/2021 12:25:44 PM DEBUG Automation Logger Initiated
+22/11/2021 12:25:44 PM DEBUG Automation Testcase starting ---> registrationTest
+22/11/2021 12:25:53 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 12:25:54 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 12:25:54 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 12:25:58 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 12:25:58 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 12:25:58 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginEmail
+22/11/2021 12:25:59 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 12:25:59 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 12:25:59 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginEmail
+22/11/2021 12:25:59 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginPassword
+22/11/2021 12:25:59 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginPassword
+22/11/2021 12:25:59 PM INFO  Automation Performing ----> CLICK on Element ---> loginButton
+22/11/2021 12:26:02 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 12:26:02 PM INFO  Automation Performing ----> SETTEXT on Element ---> registrationEmailId
+22/11/2021 12:26:03 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> registrationEmailId
+22/11/2021 12:26:03 PM INFO  Automation Performing ----> SETTEXTBYACTION on Element ---> registrationPassword
+22/11/2021 12:26:03 PM DEBUG Automation CLICK operation performed Successfully on Element:---> loginButton
+22/11/2021 12:26:03 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 12:26:03 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> homePageHelloText
+22/11/2021 12:26:03 PM INFO  Automation Performing ----> CLICK on Element ---> homePageSignOutLink
+22/11/2021 12:26:14 PM DEBUG Automation SETTEXTBYACTION operation performed Successfully on Element:---> registrationPassword
+22/11/2021 12:26:14 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> registrationPageStrongText
+22/11/2021 12:26:14 PM DEBUG Automation CLICK operation performed Successfully on Element:---> homePageSignOutLink
+22/11/2021 12:26:14 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> loginBoldText
+22/11/2021 12:26:15 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> registrationPageStrongText
+22/11/2021 12:26:15 PM INFO  Automation Performing ----> CLICK on Element ---> registerButton
+22/11/2021 12:26:15 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> loginBoldText
+22/11/2021 12:26:18 PM DEBUG Automation CLICK operation performed Successfully on Element:---> registerButton
+22/11/2021 12:26:18 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 12:27:18 PM ERROR Automation Failed to perform VERIFYELEMENTPRESENT Operation on Element:---> homePageHelloText
+22/11/2021 12:31:19 PM DEBUG Automation InitializeLogger registrationTest_ApplicationLog_22.November.2021_12_31_19 PM.log
+22/11/2021 12:31:19 PM DEBUG Automation Logger Initiated
+22/11/2021 12:31:19 PM DEBUG Automation Testcase starting ---> registrationTest
+22/11/2021 12:31:19 PM DEBUG Automation InitializeLogger loginTest_ApplicationLog_22.November.2021_12_31_19 PM.log
+22/11/2021 12:31:19 PM DEBUG Automation Logger Initiated
+22/11/2021 12:31:19 PM DEBUG Automation Testcase starting ---> loginTest
+22/11/2021 12:31:30 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 12:31:31 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 12:31:31 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 12:31:34 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 12:31:34 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 12:31:34 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginEmail
+22/11/2021 12:31:35 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 12:31:35 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 12:31:35 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginEmail
+22/11/2021 12:31:35 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginPassword
+22/11/2021 12:31:36 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginPassword
+22/11/2021 12:31:36 PM INFO  Automation Performing ----> CLICK on Element ---> loginButton
+22/11/2021 12:31:39 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 12:31:39 PM INFO  Automation Performing ----> SETTEXT on Element ---> registrationEmailId
+22/11/2021 12:31:39 PM DEBUG Automation CLICK operation performed Successfully on Element:---> loginButton
+22/11/2021 12:31:39 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 12:31:39 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> registrationEmailId
+22/11/2021 12:31:39 PM INFO  Automation Performing ----> SETTEXTBYACTION on Element ---> registrationPassword
+22/11/2021 12:31:40 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> homePageHelloText
+22/11/2021 12:31:40 PM INFO  Automation Performing ----> CLICK on Element ---> homePageSignOutLink
+22/11/2021 12:31:43 PM DEBUG Automation CLICK operation performed Successfully on Element:---> homePageSignOutLink
+22/11/2021 12:31:43 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> loginBoldText
+22/11/2021 12:31:44 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> loginBoldText
+22/11/2021 12:31:51 PM DEBUG Automation SETTEXTBYACTION operation performed Successfully on Element:---> registrationPassword
+22/11/2021 12:31:51 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> registrationPageStrongText
+22/11/2021 12:31:51 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> registrationPageStrongText
+22/11/2021 12:31:51 PM INFO  Automation Performing ----> CLICK on Element ---> registerButton
+22/11/2021 12:31:55 PM DEBUG Automation CLICK operation performed Successfully on Element:---> registerButton
+22/11/2021 12:31:55 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 12:32:25 PM ERROR Automation Failed to perform VERIFYELEMENTPRESENT Operation on Element:---> homePageHelloText
+22/11/2021 12:35:58 PM DEBUG Automation InitializeLogger loginTest_ApplicationLog_22.November.2021_12_35_58 PM.log
+22/11/2021 12:35:58 PM DEBUG Automation Logger Initiated
+22/11/2021 12:35:58 PM DEBUG Automation Testcase starting ---> loginTest
+22/11/2021 12:35:58 PM DEBUG Automation InitializeLogger registrationTest_ApplicationLog_22.November.2021_12_35_58 PM.log
+22/11/2021 12:35:58 PM DEBUG Automation Logger Initiated
+22/11/2021 12:35:58 PM DEBUG Automation Testcase starting ---> registrationTest
+22/11/2021 12:36:10 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 12:36:10 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 12:36:10 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 12:36:14 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 12:36:14 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginEmail
+22/11/2021 12:36:14 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 12:36:15 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 12:36:15 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 12:36:15 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginEmail
+22/11/2021 12:36:15 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginPassword
+22/11/2021 12:36:15 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginPassword
+22/11/2021 12:36:15 PM INFO  Automation Performing ----> CLICK on Element ---> loginButton
+22/11/2021 12:36:18 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 12:36:18 PM INFO  Automation Performing ----> SETTEXT on Element ---> registrationEmailId
+22/11/2021 12:36:19 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> registrationEmailId
+22/11/2021 12:36:19 PM INFO  Automation Performing ----> SETTEXTBYACTION on Element ---> registrationPassword
+22/11/2021 12:36:19 PM DEBUG Automation CLICK operation performed Successfully on Element:---> loginButton
+22/11/2021 12:36:19 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 12:36:20 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> homePageHelloText
+22/11/2021 12:36:20 PM INFO  Automation Performing ----> CLICK on Element ---> homePageSignOutLink
+22/11/2021 12:36:23 PM DEBUG Automation CLICK operation performed Successfully on Element:---> homePageSignOutLink
+22/11/2021 12:36:23 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> loginBoldText
+22/11/2021 12:36:24 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> loginBoldText
+22/11/2021 12:36:30 PM DEBUG Automation SETTEXTBYACTION operation performed Successfully on Element:---> registrationPassword
+22/11/2021 12:36:30 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> registrationPageStrongText
+22/11/2021 12:36:31 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> registrationPageStrongText
+22/11/2021 12:36:31 PM INFO  Automation Performing ----> CLICK on Element ---> registerButton
+22/11/2021 12:36:34 PM DEBUG Automation CLICK operation performed Successfully on Element:---> registerButton
+22/11/2021 12:36:34 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 12:37:04 PM ERROR Automation Failed to perform VERIFYELEMENTPRESENT Operation on Element:---> homePageHelloText
+22/11/2021 12:44:00 PM DEBUG Automation InitializeLogger loginTest_ApplicationLog_22.November.2021_12_43_59 PM.log
+22/11/2021 12:44:00 PM DEBUG Automation Logger Initiated
+22/11/2021 12:44:00 PM DEBUG Automation InitializeLogger registrationTest_ApplicationLog_22.November.2021_12_44_00 PM.log
+22/11/2021 12:44:00 PM DEBUG Automation Testcase starting ---> loginTest
+22/11/2021 12:44:00 PM DEBUG Automation Logger Initiated
+22/11/2021 12:44:00 PM DEBUG Automation Testcase starting ---> registrationTest
+22/11/2021 12:44:00 PM INFO  Automation Key :urlValue :http://practice.automationtesting.in/
+22/11/2021 12:44:00 PM INFO  Automation Key :emailIdValue :seltest345@hcl.com
+22/11/2021 12:44:00 PM INFO  Automation Key :loginPasswordValue :Verizon@123welco
+22/11/2021 12:44:00 PM INFO  Automation Key :urlValue :http://practice.automationtesting.in/
+22/11/2021 12:44:00 PM INFO  Automation Key :emailIdValue :seltest3456@hcl.com
+22/11/2021 12:44:00 PM INFO  Automation Key :regPasswordValue :Verizon@123welco
+22/11/2021 12:44:10 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 12:44:10 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 12:44:10 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 12:44:14 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 12:44:14 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginEmail
+22/11/2021 12:44:14 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 12:44:15 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 12:44:15 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 12:44:15 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginEmail
+22/11/2021 12:44:15 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginPassword
+22/11/2021 12:44:15 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginPassword
+22/11/2021 12:44:15 PM INFO  Automation Performing ----> CLICK on Element ---> loginButton
+22/11/2021 12:44:18 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 12:44:18 PM INFO  Automation Performing ----> SETTEXT on Element ---> registrationEmailId
+22/11/2021 12:44:19 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> registrationEmailId
+22/11/2021 12:44:19 PM INFO  Automation Performing ----> SETTEXTBYACTION on Element ---> registrationPassword
+22/11/2021 12:44:19 PM DEBUG Automation CLICK operation performed Successfully on Element:---> loginButton
+22/11/2021 12:44:19 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 12:44:19 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> homePageHelloText
+22/11/2021 12:44:19 PM INFO  Automation Performing ----> CLICK on Element ---> homePageSignOutLink
+22/11/2021 12:44:23 PM DEBUG Automation CLICK operation performed Successfully on Element:---> homePageSignOutLink
+22/11/2021 12:44:23 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> loginBoldText
+22/11/2021 12:44:24 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> loginBoldText
+22/11/2021 12:44:30 PM DEBUG Automation SETTEXTBYACTION operation performed Successfully on Element:---> registrationPassword
+22/11/2021 12:44:30 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> registrationPageStrongText
+22/11/2021 12:44:31 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> registrationPageStrongText
+22/11/2021 12:44:31 PM INFO  Automation Performing ----> CLICK on Element ---> registerButton
+22/11/2021 12:44:34 PM DEBUG Automation CLICK operation performed Successfully on Element:---> registerButton
+22/11/2021 12:44:34 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 12:45:05 PM ERROR Automation Failed to perform VERIFYELEMENTPRESENT Operation on Element:---> homePageHelloText
+22/11/2021 12:50:58 PM DEBUG Automation InitializeLogger registrationTest_ApplicationLog_22.November.2021_12_50_58 PM.log
+22/11/2021 12:50:58 PM DEBUG Automation Logger Initiated
+22/11/2021 12:50:58 PM DEBUG Automation Testcase starting ---> registrationTest
+22/11/2021 12:51:07 PM DEBUG Automation InitializeLogger loginTest_ApplicationLog_22.November.2021_12_51_07 PM.log
+22/11/2021 12:51:07 PM DEBUG Automation Logger Initiated
+22/11/2021 12:51:07 PM DEBUG Automation Testcase starting ---> loginTest
+22/11/2021 12:55:09 PM DEBUG Automation InitializeLogger Login Test_ApplicationLog_22.November.2021_12_55_08 PM.log
+22/11/2021 12:55:09 PM DEBUG Automation Logger Initiated
+22/11/2021 12:55:09 PM DEBUG Automation Testcase starting ---> Login Test
+22/11/2021 12:55:09 PM DEBUG Automation InitializeLogger Registration Test_ApplicationLog_22.November.2021_12_55_09 PM.log
+22/11/2021 12:55:09 PM DEBUG Automation Logger Initiated
+22/11/2021 12:55:09 PM DEBUG Automation Testcase starting ---> Registration Test
+22/11/2021 12:55:26 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 12:55:26 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 12:55:31 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 12:55:34 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 01:03:47 PM DEBUG Automation InitializeLogger loginTest_ApplicationLog_22.November.2021_01_03_47 PM.log
+22/11/2021 01:03:47 PM DEBUG Automation Logger Initiated
+22/11/2021 01:03:47 PM DEBUG Automation Testcase starting ---> Login Test
+22/11/2021 01:03:47 PM DEBUG Automation InitializeLogger registrationTest_ApplicationLog_22.November.2021_01_03_47 PM.log
+22/11/2021 01:03:47 PM DEBUG Automation Logger Initiated
+22/11/2021 01:03:47 PM DEBUG Automation Testcase starting ---> Registration Test
+22/11/2021 01:15:43 PM DEBUG Automation InitializeLogger loginTest_ApplicationLog_22.November.2021_01_15_43 PM.log
+22/11/2021 01:15:43 PM DEBUG Automation Logger Initiated
+22/11/2021 01:15:43 PM DEBUG Automation Testcase starting ---> loginTest
+22/11/2021 01:15:43 PM DEBUG Automation InitializeLogger registrationTest_ApplicationLog_22.November.2021_01_15_43 PM.log
+22/11/2021 01:15:43 PM DEBUG Automation Logger Initiated
+22/11/2021 01:15:43 PM DEBUG Automation Testcase starting ---> registrationTest
+22/11/2021 01:16:23 PM DEBUG Automation InitializeLogger loginTest_ApplicationLog_22.November.2021_01_16_23 PM.log
+22/11/2021 01:16:23 PM DEBUG Automation Logger Initiated
+22/11/2021 01:16:23 PM DEBUG Automation Testcase starting ---> loginTest
+22/11/2021 01:17:38 PM DEBUG Automation InitializeLogger loginTest_ApplicationLog_22.November.2021_01_17_38 PM.log
+22/11/2021 01:17:39 PM DEBUG Automation Logger Initiated
+22/11/2021 01:17:39 PM DEBUG Automation Testcase starting ---> loginTest
+22/11/2021 01:18:35 PM DEBUG Automation InitializeLogger loginTest_ApplicationLog_22.November.2021_01_18_35 PM.log
+22/11/2021 01:18:35 PM DEBUG Automation Logger Initiated
+22/11/2021 01:18:35 PM DEBUG Automation Testcase starting ---> loginTest
+22/11/2021 01:21:08 PM DEBUG Automation InitializeLogger loginTest_ApplicationLog_22.November.2021_01_21_08 PM.log
+22/11/2021 01:21:08 PM DEBUG Automation Logger Initiated
+22/11/2021 01:21:08 PM DEBUG Automation Testcase starting ---> loginTest
+22/11/2021 01:21:08 PM DEBUG Automation InitializeLogger registrationTest_ApplicationLog_22.November.2021_01_21_08 PM.log
+22/11/2021 01:21:08 PM DEBUG Automation Logger Initiated
+22/11/2021 01:21:08 PM DEBUG Automation Testcase starting ---> registrationTest
+22/11/2021 01:21:49 PM DEBUG Automation InitializeLogger loginTest_ApplicationLog_22.November.2021_01_21_49 PM.log
+22/11/2021 01:21:49 PM DEBUG Automation Logger Initiated
+22/11/2021 01:21:49 PM DEBUG Automation Testcase starting ---> loginTest
+22/11/2021 01:22:21 PM DEBUG Automation InitializeLogger registrationTest_ApplicationLog_22.November.2021_01_22_21 PM.log
+22/11/2021 01:22:21 PM DEBUG Automation Logger Initiated
+22/11/2021 01:22:21 PM DEBUG Automation Testcase starting ---> registrationTest
+22/11/2021 01:22:21 PM DEBUG Automation InitializeLogger loginTest_ApplicationLog_22.November.2021_01_22_21 PM.log
+22/11/2021 01:22:21 PM DEBUG Automation Logger Initiated
+22/11/2021 01:22:21 PM DEBUG Automation Testcase starting ---> loginTest
+22/11/2021 01:22:32 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 01:22:32 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 01:22:33 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 01:22:33 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 01:22:33 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 01:22:33 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 01:22:37 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 01:22:37 PM INFO  Automation Performing ----> SETTEXT on Element ---> registrationEmailId
+22/11/2021 01:22:37 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 01:22:37 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginEmail
+22/11/2021 01:22:37 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> registrationEmailId
+22/11/2021 01:22:37 PM INFO  Automation Performing ----> SETTEXTBYACTION on Element ---> registrationPassword
+22/11/2021 01:22:37 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginEmail
+22/11/2021 01:22:37 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginPassword
+22/11/2021 01:22:38 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginPassword
+22/11/2021 01:22:38 PM INFO  Automation Performing ----> CLICK on Element ---> loginButton
+22/11/2021 01:22:42 PM DEBUG Automation CLICK operation performed Successfully on Element:---> loginButton
+22/11/2021 01:22:42 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 01:22:42 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> homePageHelloText
+22/11/2021 01:22:42 PM INFO  Automation Performing ----> CLICK on Element ---> homePageSignOutLink
+22/11/2021 01:22:46 PM DEBUG Automation CLICK operation performed Successfully on Element:---> homePageSignOutLink
+22/11/2021 01:22:46 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> loginBoldText
+22/11/2021 01:22:47 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> loginBoldText
+22/11/2021 01:22:49 PM DEBUG Automation SETTEXTBYACTION operation performed Successfully on Element:---> registrationPassword
+22/11/2021 01:22:49 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> registrationPageStrongText
+22/11/2021 01:22:49 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> registrationPageStrongText
+22/11/2021 01:22:49 PM INFO  Automation Performing ----> CLICK on Element ---> registerButton
+22/11/2021 01:22:52 PM DEBUG Automation CLICK operation performed Successfully on Element:---> registerButton
+22/11/2021 01:22:52 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 01:23:53 PM ERROR Automation Failed to perform VERIFYELEMENTPRESENT Operation on Element:---> homePageHelloText
+22/11/2021 02:10:53 PM DEBUG Automation InitializeLogger loginTest_ApplicationLog_22.November.2021_02_10_53 PM.log
+22/11/2021 02:10:53 PM DEBUG Automation Logger Initiated
+22/11/2021 02:10:53 PM DEBUG Automation Testcase starting ---> loginTest
+22/11/2021 02:11:03 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 02:11:04 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 02:11:04 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 02:11:28 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 02:11:28 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginEmail
+22/11/2021 02:11:29 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginEmail
+22/11/2021 02:11:29 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginPassword
+22/11/2021 02:11:29 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginPassword
+22/11/2021 02:11:29 PM INFO  Automation Performing ----> CLICK on Element ---> loginButton
+22/11/2021 02:11:33 PM DEBUG Automation CLICK operation performed Successfully on Element:---> loginButton
+22/11/2021 02:11:33 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 02:11:34 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> homePageHelloText
+22/11/2021 02:11:34 PM INFO  Automation Performing ----> CLICK on Element ---> homePageSignOutLink
+22/11/2021 02:11:38 PM DEBUG Automation CLICK operation performed Successfully on Element:---> homePageSignOutLink
+22/11/2021 02:11:38 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> loginBoldText
+22/11/2021 02:11:38 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> loginBoldText
+22/11/2021 02:18:51 PM DEBUG Automation InitializeLogger loginTest_ApplicationLog_22.November.2021_02_18_51 PM.log
+22/11/2021 02:18:51 PM DEBUG Automation Logger Initiated
+22/11/2021 02:18:51 PM DEBUG Automation Testcase starting ---> loginTest
+22/11/2021 02:19:05 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 02:19:06 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 02:19:06 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 02:19:10 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 02:19:10 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginEmail
+22/11/2021 02:19:10 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginEmail
+22/11/2021 02:19:10 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginPassword
+22/11/2021 02:19:11 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginPassword
+22/11/2021 02:19:11 PM INFO  Automation Performing ----> CLICK on Element ---> loginButton
+22/11/2021 02:19:15 PM DEBUG Automation CLICK operation performed Successfully on Element:---> loginButton
+22/11/2021 02:19:15 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 02:19:15 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> homePageHelloText
+22/11/2021 02:19:15 PM INFO  Automation Performing ----> CLICK on Element ---> homePageSignOutLink
+22/11/2021 02:19:19 PM DEBUG Automation CLICK operation performed Successfully on Element:---> homePageSignOutLink
+22/11/2021 02:19:19 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> loginBoldText
+22/11/2021 02:19:20 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> loginBoldText
+22/11/2021 02:19:54 PM DEBUG Automation InitializeLogger loginTest_ApplicationLog_22.November.2021_02_19_54 PM.log
+22/11/2021 02:19:54 PM DEBUG Automation Logger Initiated
+22/11/2021 02:19:54 PM DEBUG Automation Testcase starting ---> loginTest
+22/11/2021 02:20:04 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 02:20:04 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 02:20:04 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 02:20:08 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 02:20:08 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginEmail
+22/11/2021 02:20:09 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginEmail
+22/11/2021 02:20:09 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginPassword
+22/11/2021 02:20:09 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginPassword
+22/11/2021 02:20:09 PM INFO  Automation Performing ----> CLICK on Element ---> loginButton
+22/11/2021 02:20:13 PM DEBUG Automation CLICK operation performed Successfully on Element:---> loginButton
+22/11/2021 02:20:13 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 02:20:14 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> homePageHelloText
+22/11/2021 02:20:14 PM INFO  Automation Performing ----> CLICK on Element ---> homePageSignOutLink
+22/11/2021 02:20:18 PM DEBUG Automation CLICK operation performed Successfully on Element:---> homePageSignOutLink
+22/11/2021 02:20:18 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> loginBoldText
+22/11/2021 02:20:18 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> loginBoldText
+22/11/2021 02:22:40 PM DEBUG Automation InitializeLogger loginTest_ApplicationLog_22.November.2021_02_22_40 PM.log
+22/11/2021 02:22:40 PM DEBUG Automation Logger Initiated
+22/11/2021 02:22:40 PM DEBUG Automation Testcase starting ---> loginTest
+22/11/2021 02:22:49 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 02:22:50 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 02:22:50 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 02:22:54 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 02:22:54 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginEmail
+22/11/2021 02:22:55 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginEmail
+22/11/2021 02:22:55 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginPassword
+22/11/2021 02:22:55 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginPassword
+22/11/2021 02:22:55 PM INFO  Automation Performing ----> CLICK on Element ---> loginButton
+22/11/2021 02:22:59 PM DEBUG Automation CLICK operation performed Successfully on Element:---> loginButton
+22/11/2021 02:22:59 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 02:22:59 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> homePageHelloText
+22/11/2021 02:22:59 PM INFO  Automation Performing ----> CLICK on Element ---> homePageSignOutLink
+22/11/2021 02:23:04 PM DEBUG Automation CLICK operation performed Successfully on Element:---> homePageSignOutLink
+22/11/2021 02:23:04 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> loginBoldText
+22/11/2021 02:23:04 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> loginBoldText
+22/11/2021 02:25:32 PM DEBUG Automation InitializeLogger loginTest_ApplicationLog_22.November.2021_02_25_32 PM.log
+22/11/2021 02:25:32 PM DEBUG Automation Logger Initiated
+22/11/2021 02:25:32 PM DEBUG Automation Testcase starting ---> loginTest
+22/11/2021 02:25:42 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 02:25:43 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 02:25:43 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 02:25:48 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 02:25:48 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginEmail
+22/11/2021 02:25:48 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginEmail
+22/11/2021 02:25:48 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginPassword
+22/11/2021 02:27:39 PM DEBUG Automation InitializeLogger registrationTest_ApplicationLog_22.November.2021_02_27_39 PM.log
+22/11/2021 02:27:39 PM DEBUG Automation Logger Initiated
+22/11/2021 02:27:39 PM DEBUG Automation Testcase starting ---> registrationTest
+22/11/2021 02:27:39 PM DEBUG Automation InitializeLogger loginTest_ApplicationLog_22.November.2021_02_27_39 PM.log
+22/11/2021 02:27:39 PM DEBUG Automation Logger Initiated
+22/11/2021 02:27:39 PM DEBUG Automation Testcase starting ---> loginTest
+22/11/2021 02:27:53 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 02:27:53 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> landingPageImage
+22/11/2021 02:27:54 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 02:27:54 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 02:27:54 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> landingPageImage
+22/11/2021 02:27:54 PM INFO  Automation Performing ----> CLICK on Element ---> landingPageMyAccount
+22/11/2021 02:27:56 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 02:27:56 PM INFO  Automation Performing ----> SETTEXT on Element ---> registrationEmailId
+22/11/2021 02:27:56 PM DEBUG Automation CLICK operation performed Successfully on Element:---> landingPageMyAccount
+22/11/2021 02:27:56 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginEmail
+22/11/2021 02:27:57 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> registrationEmailId
+22/11/2021 02:27:57 PM INFO  Automation Performing ----> SETTEXTBYACTION on Element ---> registrationPassword
+22/11/2021 02:27:57 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginEmail
+22/11/2021 02:27:57 PM INFO  Automation Performing ----> SETTEXT on Element ---> loginPassword
+22/11/2021 02:27:57 PM DEBUG Automation SETTEXT operation performed Successfully on Element:---> loginPassword
+22/11/2021 02:27:57 PM INFO  Automation Performing ----> CLICK on Element ---> loginButton
+22/11/2021 02:28:01 PM DEBUG Automation CLICK operation performed Successfully on Element:---> loginButton
+22/11/2021 02:28:01 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText
+22/11/2021 02:28:02 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> homePageHelloText
+22/11/2021 02:28:02 PM INFO  Automation Performing ----> CLICK on Element ---> homePageSignOutLink
+22/11/2021 02:28:05 PM DEBUG Automation CLICK operation performed Successfully on Element:---> homePageSignOutLink
+22/11/2021 02:28:05 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> loginBoldText
+22/11/2021 02:28:05 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> loginBoldText
+22/11/2021 02:28:15 PM DEBUG Automation SETTEXTBYACTION operation performed Successfully on Element:---> registrationPassword
+22/11/2021 02:28:15 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> registrationPageStrongText
+22/11/2021 02:28:15 PM DEBUG Automation VERIFYELEMENTPRESENT operation performed Successfully on Element:---> registrationPageStrongText
+22/11/2021 02:28:15 PM INFO  Automation Performing ----> CLICK on Element ---> registerButton
+22/11/2021 02:28:18 PM DEBUG Automation CLICK operation performed Successfully on Element:---> registerButton
+22/11/2021 02:28:18 PM INFO  Automation Performing ----> VERIFYELEMENTPRESENT on Element ---> homePageHelloText

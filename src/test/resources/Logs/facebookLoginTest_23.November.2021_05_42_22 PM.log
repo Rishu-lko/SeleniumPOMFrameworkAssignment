@@ -1,0 +1,47 @@
+[INFO ] 23-November-2021 05:42:22.368 PM IST - com.automation.framework.InitLogger:initializeLogger 31==>  
+
+************** Execution Started : facebookLoginTest**************
+
+[DEBUG] 23-November-2021 05:42:22.383 PM IST - com.automation.tests.FacebookLoginTest_Assignment_1:beforeEachTest 29==>  Testcase starting ---> facebookLoginTest
+[INFO ] 23-November-2021 05:42:25.930 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> SETTEXT on Element ---> facebookLoginEmail
+[DEBUG] 23-November-2021 05:42:26.550 PM IST - com.test.utils.UIOperations:perform 46==>  SETTEXT operation performed Successfully on Element:---> facebookLoginEmail
+[INFO ] 23-November-2021 05:42:26.554 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> SETTEXT on Element ---> facebookLoginPassword
+[DEBUG] 23-November-2021 05:42:27.153 PM IST - com.test.utils.UIOperations:perform 46==>  SETTEXT operation performed Successfully on Element:---> facebookLoginPassword
+[INFO ] 23-November-2021 05:42:27.155 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> facebookLoginButton
+[DEBUG] 23-November-2021 05:42:27.745 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> facebookLoginButton
+[INFO ] 23-November-2021 05:42:27.747 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> VERIFYELEMENTPRESENT on Element ---> facebookHomePageWelcomeText
+[DEBUG] 23-November-2021 05:42:31.500 PM IST - com.test.utils.UIOperations:perform 97==>  VERIFYELEMENTPRESENT operation performed Successfully on Element:---> facebookHomePageWelcomeText
+[INFO ] 23-November-2021 05:42:31.500 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> facebookHomePageMenuIcon
+[DEBUG] 23-November-2021 05:42:32.155 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> facebookHomePageMenuIcon
+[INFO ] 23-November-2021 05:42:32.156 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> facebookHomePagePostOption
+[DEBUG] 23-November-2021 05:42:33.335 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> facebookHomePagePostOption
+[INFO ] 23-November-2021 05:42:33.335 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> SETTEXT on Element ---> facebookHomePageCreatePostTextArea
+[DEBUG] 23-November-2021 05:42:34.620 PM IST - com.test.utils.UIOperations:perform 46==>  SETTEXT operation performed Successfully on Element:---> facebookHomePageCreatePostTextArea
+[INFO ] 23-November-2021 05:42:34.620 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> facebookHomePageCreatePostButton
+[DEBUG] 23-November-2021 05:42:35.240 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> facebookHomePageCreatePostButton
+[INFO ] 23-November-2021 05:42:35.241 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> VERIFYELEMENTNOTPRESENT on Element ---> facebookHomePageCreatePostPopUp
+[DEBUG] 23-November-2021 05:42:36.931 PM IST - com.test.utils.UIOperations:perform 109==>  VERIFYELEMENTNOTPRESENT operation performed Successfully on Element:---> facebookHomePageCreatePostPopUp
+[INFO ] 23-November-2021 05:42:36.931 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> facebookHomePageAccountIcon
+[DEBUG] 23-November-2021 05:42:37.537 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> facebookHomePageAccountIcon
+[INFO ] 23-November-2021 05:42:37.537 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> facebookHomePageSeeYourProfileLink
+[DEBUG] 23-November-2021 05:42:39.228 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> facebookHomePageSeeYourProfileLink
+[INFO ] 23-November-2021 05:42:39.229 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> VERIFYELEMENTPRESENT on Element ---> facebookProfilePagePost
+[DEBUG] 23-November-2021 05:42:40.882 PM IST - com.test.utils.UIOperations:perform 97==>  VERIFYELEMENTPRESENT operation performed Successfully on Element:---> facebookProfilePagePost
+[INFO ] 23-November-2021 05:42:40.883 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> facebookProfilePageActionOnPostIcon
+[DEBUG] 23-November-2021 05:42:41.521 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> facebookProfilePageActionOnPostIcon
+[INFO ] 23-November-2021 05:42:41.522 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> facebookProfilePageMoveToRecycleBinPostLink
+[DEBUG] 23-November-2021 05:42:43.254 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> facebookProfilePageMoveToRecycleBinPostLink
+[INFO ] 23-November-2021 05:42:43.255 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> facebookProfilePageMoveToRecycleBinConfirmButton
+[DEBUG] 23-November-2021 05:42:43.870 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> facebookProfilePageMoveToRecycleBinConfirmButton
+[INFO ] 23-November-2021 05:42:43.870 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> VERIFYELEMENTNOTPRESENT on Element ---> facebookProfilePagePost
+[DEBUG] 23-November-2021 05:42:44.992 PM IST - com.test.utils.UIOperations:perform 109==>  VERIFYELEMENTNOTPRESENT operation performed Successfully on Element:---> facebookProfilePagePost
+[INFO ] 23-November-2021 05:42:44.993 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> facebookHomePageAccountIcon
+[DEBUG] 23-November-2021 05:42:45.612 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> facebookHomePageAccountIcon
+[INFO ] 23-November-2021 05:42:45.612 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> facebookHomePageLogOutLink
+[DEBUG] 23-November-2021 05:42:48.260 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> facebookHomePageLogOutLink
+[INFO ] 23-November-2021 05:42:48.261 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> VERIFYELEMENTPRESENT on Element ---> facebookCreateNewAccountButton
+[DEBUG] 23-November-2021 05:42:48.810 PM IST - com.test.utils.UIOperations:perform 97==>  VERIFYELEMENTPRESENT operation performed Successfully on Element:---> facebookCreateNewAccountButton
+[INFO ] 23-November-2021 05:42:48.811 PM IST - com.automation.framework.InitLogger:endTestCase 35==>  
+
+************** Execution End : facebookLoginTest**************
+

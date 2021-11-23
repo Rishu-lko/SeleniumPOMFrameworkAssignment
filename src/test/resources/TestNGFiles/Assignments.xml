@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestSuite" thread-count="3" parallel="tests">
+  <listeners>
+      <listener class-name="com.automation.framework.ListenersImplementation"></listener>
+  </listeners> 
+  <test name="TestAssignments1">  
+    <classes>
+     <class name="com.automation.tests.FacebookLoginTest_Assignment_1"/>
+    </classes>
+  </test>
+  <test name="TestAssignments2">  
+    <classes>
+     <class name="com.automation.tests.WalletHubReviewTest_Assignment_2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

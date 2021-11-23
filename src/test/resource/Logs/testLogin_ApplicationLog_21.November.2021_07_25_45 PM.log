@@ -1,0 +1,7 @@
+21/11/2021 07:25:45 PM DEBUG automation InitializeLogger testLogin_ApplicationLog_21.November.2021_07_25_45 PM.log
+21/11/2021 07:25:45 PM DEBUG automation Logger Initiated
+21/11/2021 07:25:48 PM DEBUG automation Click Operation performed Successfully on Element: By.linkText: My Account
+21/11/2021 07:25:48 PM DEBUG automation Click Operation performed Successfully on Element: By.linkText: My Account
+21/11/2021 07:25:52 PM DEBUG automation Click Operation performed Successfully on Element: By.cssSelector: input[name='login']
+21/11/2021 07:25:56 PM DEBUG automation Click Operation performed Successfully on Element: By.linkText: Sign out
+21/11/2021 07:26:03 PM DEBUG automation Click Operation performed Successfully on Element: By.cssSelector: input[name='register']

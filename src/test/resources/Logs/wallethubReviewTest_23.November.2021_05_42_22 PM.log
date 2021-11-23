@@ -1,0 +1,66 @@
+[INFO ] 23-November-2021 05:42:27.220 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> SETTEXT on Element ---> wallethubLoginEmail
+[DEBUG] 23-November-2021 05:42:27.828 PM IST - com.test.utils.UIOperations:perform 46==>  SETTEXT operation performed Successfully on Element:---> wallethubLoginEmail
+[INFO ] 23-November-2021 05:42:27.828 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> SETTEXT on Element ---> wallethubLoginPassword
+[DEBUG] 23-November-2021 05:42:28.398 PM IST - com.test.utils.UIOperations:perform 46==>  SETTEXT operation performed Successfully on Element:---> wallethubLoginPassword
+[INFO ] 23-November-2021 05:42:28.399 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> wallethubRememberMeToggle
+[DEBUG] 23-November-2021 05:42:28.977 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> wallethubRememberMeToggle
+[INFO ] 23-November-2021 05:42:28.977 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> wallethubLoginButton
+[DEBUG] 23-November-2021 05:42:29.585 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> wallethubLoginButton
+[INFO ] 23-November-2021 05:42:29.586 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> VERIFYELEMENTPRESENT on Element ---> wallethubProfileHomePageAccountName
+[DEBUG] 23-November-2021 05:42:40.074 PM IST - com.test.utils.UIOperations:perform 97==>  VERIFYELEMENTPRESENT operation performed Successfully on Element:---> wallethubProfileHomePageAccountName
+[INFO ] 23-November-2021 05:42:40.076 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> GOTOURL on Element ---> wallethubReviewPageURL
+[DEBUG] 23-November-2021 05:42:41.950 PM IST - com.test.utils.UIOperations:perform 73==>  GOTOURL operation performed Successfully for URL:---> https://wallethub.com/profile/13732055i
+[INFO ] 23-November-2021 05:42:41.951 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> wallethubProfileHomePageReviewsNavMenu
+[DEBUG] 23-November-2021 05:42:42.613 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> wallethubProfileHomePageReviewsNavMenu
+[INFO ] 23-November-2021 05:42:42.613 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> MOUSEHOVER on Element ---> wallethubProfileHomePageFourStarRating
+[DEBUG] 23-November-2021 05:42:45.282 PM IST - com.test.utils.UIOperations:perform 124==>  MOUSEHOVER operation performed Successfully on Element:---> wallethubProfileHomePageFourStarRating
+[INFO ] 23-November-2021 05:42:45.282 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> VERIFYELEMENTPRESENT on Element ---> wallethubProfileHomePageOneStarRatingHighlighted
+[DEBUG] 23-November-2021 05:42:45.808 PM IST - com.test.utils.UIOperations:perform 97==>  VERIFYELEMENTPRESENT operation performed Successfully on Element:---> wallethubProfileHomePageOneStarRatingHighlighted
+[INFO ] 23-November-2021 05:42:45.808 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> VERIFYELEMENTPRESENT on Element ---> wallethubProfileHomePageTwoStarRatingHighlighted
+[DEBUG] 23-November-2021 05:42:46.321 PM IST - com.test.utils.UIOperations:perform 97==>  VERIFYELEMENTPRESENT operation performed Successfully on Element:---> wallethubProfileHomePageTwoStarRatingHighlighted
+[INFO ] 23-November-2021 05:42:46.324 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> VERIFYELEMENTPRESENT on Element ---> wallethubProfileHomePageThreeStarRatingHighlighted
+[DEBUG] 23-November-2021 05:42:46.868 PM IST - com.test.utils.UIOperations:perform 97==>  VERIFYELEMENTPRESENT operation performed Successfully on Element:---> wallethubProfileHomePageThreeStarRatingHighlighted
+[INFO ] 23-November-2021 05:42:46.869 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> VERIFYELEMENTPRESENT on Element ---> wallethubProfileHomePageFourStarRatingHighlighted
+[DEBUG] 23-November-2021 05:42:47.396 PM IST - com.test.utils.UIOperations:perform 97==>  VERIFYELEMENTPRESENT operation performed Successfully on Element:---> wallethubProfileHomePageFourStarRatingHighlighted
+[INFO ] 23-November-2021 05:42:47.398 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> wallethubProfileHomePageFourStarRating
+[DEBUG] 23-November-2021 05:42:48.059 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> wallethubProfileHomePageFourStarRating
+[INFO ] 23-November-2021 05:42:48.071 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> wallethubReviewPagePolicyDropdown
+[DEBUG] 23-November-2021 05:42:48.683 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> wallethubReviewPagePolicyDropdown
+[INFO ] 23-November-2021 05:42:48.684 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> wallethubReviewPagePolicyDropdownValue
+[DEBUG] 23-November-2021 05:42:49.299 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> wallethubReviewPagePolicyDropdownValue
+[INFO ] 23-November-2021 05:42:49.299 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> SETTEXT on Element ---> wallethubReviewPageReviewTextArea
+[DEBUG] 23-November-2021 05:42:50.535 PM IST - com.test.utils.UIOperations:perform 46==>  SETTEXT operation performed Successfully on Element:---> wallethubReviewPageReviewTextArea
+[INFO ] 23-November-2021 05:42:50.535 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> wallethubReviewPageSubmitButton
+[DEBUG] 23-November-2021 05:42:51.142 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> wallethubReviewPageSubmitButton
+[INFO ] 23-November-2021 05:42:51.142 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> VERIFYELEMENTPRESENT on Element ---> wallethubReviewPageReviewSuccessfullyPostedMessage
+[DEBUG] 23-November-2021 05:42:58.025 PM IST - com.test.utils.UIOperations:perform 97==>  VERIFYELEMENTPRESENT operation performed Successfully on Element:---> wallethubReviewPageReviewSuccessfullyPostedMessage
+[INFO ] 23-November-2021 05:42:58.026 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> MOUSEHOVER on Element ---> wallethubReviewPageUserDropdownMenu
+[DEBUG] 23-November-2021 05:43:00.727 PM IST - com.test.utils.UIOperations:perform 124==>  MOUSEHOVER operation performed Successfully on Element:---> wallethubReviewPageUserDropdownMenu
+[INFO ] 23-November-2021 05:43:00.729 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> wallethubReviewPageUserDropdownProfileLink
+[DEBUG] 23-November-2021 05:43:03.885 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> wallethubReviewPageUserDropdownProfileLink
+[INFO ] 23-November-2021 05:43:03.886 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> VERIFYELEMENTPRESENT on Element ---> wallethubProfileHomePageLatestReviewFeed
+[DEBUG] 23-November-2021 05:43:04.414 PM IST - com.test.utils.UIOperations:perform 97==>  VERIFYELEMENTPRESENT operation performed Successfully on Element:---> wallethubProfileHomePageLatestReviewFeed
+[INFO ] 23-November-2021 05:43:04.416 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> wallethubProfileHomePageLatestReviewFeed
+[DEBUG] 23-November-2021 05:43:06.441 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> wallethubProfileHomePageLatestReviewFeed
+[INFO ] 23-November-2021 05:43:06.441 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> VERIFYELEMENTPRESENT on Element ---> wallethubProfileHomePageReviewText
+[DEBUG] 23-November-2021 05:43:06.967 PM IST - com.test.utils.UIOperations:perform 97==>  VERIFYELEMENTPRESENT operation performed Successfully on Element:---> wallethubProfileHomePageReviewText
+[INFO ] 23-November-2021 05:43:06.967 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> wallethubProfileHomePageReviewTextEditButton
+[DEBUG] 23-November-2021 05:43:07.600 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> wallethubProfileHomePageReviewTextEditButton
+[INFO ] 23-November-2021 05:43:07.601 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLEARTEXTBYACTION on Element ---> wallethubProfileHomePageReviewTextArea
+[DEBUG] 23-November-2021 05:43:08.273 PM IST - com.test.utils.UIOperations:perform 157==>  CLEARTEXTBYACTION operation performed Successfully on Element:---> wallethubProfileHomePageReviewTextArea
+[INFO ] 23-November-2021 05:43:08.273 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> wallethubProfileHomePageReviewTextSubmitButton
+[DEBUG] 23-November-2021 05:43:08.897 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> wallethubProfileHomePageReviewTextSubmitButton
+[INFO ] 23-November-2021 05:43:08.897 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> VERIFYELEMENTNOTPRESENT on Element ---> wallethubProfileHomePageReviewTextArea
+[DEBUG] 23-November-2021 05:43:10.559 PM IST - com.test.utils.UIOperations:perform 109==>  VERIFYELEMENTNOTPRESENT operation performed Successfully on Element:---> wallethubProfileHomePageReviewTextArea
+[INFO ] 23-November-2021 05:43:10.560 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> VERIFYELEMENTNOTPRESENT on Element ---> wallethubProfileHomePageReviewText
+[DEBUG] 23-November-2021 05:43:10.575 PM IST - com.test.utils.UIOperations:perform 109==>  VERIFYELEMENTNOTPRESENT operation performed Successfully on Element:---> wallethubProfileHomePageReviewText
+[INFO ] 23-November-2021 05:43:10.576 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> MOUSEHOVER on Element ---> wallethubReviewPageUserDropdownMenu
+[DEBUG] 23-November-2021 05:43:13.215 PM IST - com.test.utils.UIOperations:perform 124==>  MOUSEHOVER operation performed Successfully on Element:---> wallethubReviewPageUserDropdownMenu
+[INFO ] 23-November-2021 05:43:13.215 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> CLICK on Element ---> wallethubReviewPageUserDropdownLogoutLink
+[DEBUG] 23-November-2021 05:43:18.327 PM IST - com.test.utils.UIOperations:perform 34==>  CLICK operation performed Successfully on Element:---> wallethubReviewPageUserDropdownLogoutLink
+[INFO ] 23-November-2021 05:43:18.328 PM IST - com.test.utils.UIOperations:perform 26==>  Performing ----> VERIFYELEMENTPRESENT on Element ---> wallethubSignUpButton
+[DEBUG] 23-November-2021 05:43:18.877 PM IST - com.test.utils.UIOperations:perform 97==>  VERIFYELEMENTPRESENT operation performed Successfully on Element:---> wallethubSignUpButton
+[INFO ] 23-November-2021 05:43:18.878 PM IST - com.automation.framework.InitLogger:endTestCase 35==>  
+
+************** Execution End : wallethubReviewTest**************
+
